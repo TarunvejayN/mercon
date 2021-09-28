@@ -1,2 +1,3 @@
 print "hi"
-print "hello"s
+print "hello"
+print "third line"
